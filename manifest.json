@@ -1,0 +1,26 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/beat-saber-modding-group/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "CountersPlusNewCustomCountersTest",
+  "name": "CountersPlusNewCustomCountersTest",
+  "author": "",
+  "version": "0.0.1",
+  "description": "",
+  "gameVersion": "1.9.0",
+  "features": {
+    "CountersPlus.CustomCounter": {
+      "Name": "William Gay Counter",
+      "Description": "Shows william gay",
+      "CounterLocation": "CountersPlusNewCustomCountersTest.WilliamGayCounter",
+      "ConfigDefaults": {
+        "Enabled": true,
+        "Position": "AboveCombo",
+        "Distance": 0
+      },
+      "BSML": {
+        "Resource": "CountersPlusNewCustomCountersTest.TestCustomUI.bsml",
+        "Host": null,
+        "Icon": "CountersPlusNewCustomCountersTest.william_gay.png"
+      }
+    }
+  }
+}

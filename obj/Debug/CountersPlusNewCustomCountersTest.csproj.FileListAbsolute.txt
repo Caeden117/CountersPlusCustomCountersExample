@@ -1,0 +1,6 @@
+C:\Users\caede_000\Documents\Visual Studio 2019\Projects\CountersPlusNewCustomCountersTest\bin\Debug\CountersPlusNewCustomCountersTest.dll
+C:\Users\caede_000\Documents\Visual Studio 2019\Projects\CountersPlusNewCustomCountersTest\bin\Debug\CountersPlusNewCustomCountersTest.pdb
+C:\Users\caede_000\Documents\Visual Studio 2019\Projects\CountersPlusNewCustomCountersTest\obj\Debug\CountersPlusNewCustomCountersTest.csprojAssemblyReference.cache
+C:\Users\caede_000\Documents\Visual Studio 2019\Projects\CountersPlusNewCustomCountersTest\obj\Debug\CountersPlusNewCustomCountersTest.csproj.CoreCompileInputs.cache
+C:\Users\caede_000\Documents\Visual Studio 2019\Projects\CountersPlusNewCustomCountersTest\obj\Debug\CountersPlusNewCustomCountersTest.dll
+C:\Users\caede_000\Documents\Visual Studio 2019\Projects\CountersPlusNewCustomCountersTest\obj\Debug\CountersPlusNewCustomCountersTest.pdb
